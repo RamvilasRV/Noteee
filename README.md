@@ -7,7 +7,7 @@ This is a simple and minimal notepad. This was made using python tkinter. Has a 
 
 Keybindings :-
 
-Open existing file -> Ctrl-o
+Open existing file -> Ctrl-o <h/>
 Clear the screen -> Alt-c
 Save file -> Ctrl-s  
 Quit -> Ctrl-q
