@@ -20,3 +20,8 @@ To get the minimize/ maximize and close buttons (default) at the top, edit the c
 > root.overrideredirect(1)
 to
 > root.overrideredirect(0)
+
+
+To convert the code into an application use
+>pip install pyinstaller
+>pyinstaller.exe --opnefile --icon=icon.ico code.py -w
