@@ -24,4 +24,5 @@ to
 
 To convert the code into an application use
 >pip install pyinstaller
+
 >pyinstaller.exe --opnefile --icon=icon.ico code.py -w
